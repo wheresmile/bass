@@ -10,6 +10,6 @@
 
 包含：
 * [英语学习](./english);
-* 大前端，HTML、CSS、JS、Reactjs 等；
-* 大后端，Python、Go、Java、Nginx、Redis、MySQL、ES 等；
+* [大前端](./frontend)，HTML、CSS、JS、Reactjs、Vuejs 等；
+* 大后端，Python、Go、Java、[Nginx](./nginx)、Redis、[MySQL](./mysql)、ES 等；
 * 其他
